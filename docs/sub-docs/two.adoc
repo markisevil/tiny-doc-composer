@@ -1,0 +1,5 @@
+ifndef::doc-variable-one[:doc-variable-one: document variable]
+
+= Chapter Two
+
+In this chapter, there will be a good example of a {doc-variable-one} and loads of exciting sci-fi action. 
