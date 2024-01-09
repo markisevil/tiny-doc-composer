@@ -15,4 +15,4 @@ include::sub-docs/two.adoc[]
 
 include::sub-docs/three.adoc[]
 
-include::sub-docs/four.adoc
+include::sub-docs/four.adoc[]
