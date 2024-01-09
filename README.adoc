@@ -1,0 +1,3 @@
+= tiny-doc-composer
+
+This is a very minimal example.  
